@@ -1,3 +1,12 @@
 h6{
     font-size: 15px;
 }
+body{
+  background-color: green;
+}
+.yay{
+  text-align: center;
+}
+.border{
+  border: 5px solid red;
+}
